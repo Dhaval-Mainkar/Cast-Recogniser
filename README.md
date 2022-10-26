@@ -1,5 +1,5 @@
 # Cast-Recogniser
-A simple face recognition python-based program that helps to identify actors from a stored video using a face recognition library. Here I have used a small video from a 2022 film "Everything Everywhere All at Once" and have provided images of all the actors in that particular scene
+A simple face recognition python-based program that helps to identify actors from a stored video using a face recognition library. Here I have used a small video from a 2022 film "Everything Everywhere All at Once" and have provided images of all the actors in that particular scene.
 
 Cast Recogniser can be an awesome program if you keep wondering "wait I have seen him somewhere before" not anymore since you have to just provide as minimum as 1 image of that actor and it will show you his/her's  stage name. With a bunch of images of different actors, it can be really useful for some popular shows with a lot of guest cameos.
 
