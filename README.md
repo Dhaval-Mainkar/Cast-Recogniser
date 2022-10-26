@@ -9,7 +9,7 @@ Cast Recogniser can be an awesome program if you keep wondering "wait I have see
 ![3](https://user-images.githubusercontent.com/53887636/198068980-e7c3efbb-26f4-4fc3-83de-d016d45c9bed.png)
 
 # Some shortcomings related to the program
-1. This model depends on various factors such as how close is the actor to the camera the more the distance from the camera the less it is to recognize the actor.
+1. This model depends on various factors such as how close is the actor to the camera the more the distance from the camera the less it will recognize the actor.
 
 2. It also depends on the lights if there is a scene where you have very less lights then it is hard to detect faces.
 
