@@ -1,5 +1,0 @@
-This model depends on various factors such as how close is the actor to the camera the more the distance from camera the less it is to detect the actor.
-It also depends on the lights if there is a scene where you have very less lights then it is hard to detect faces.
-These are some flaws related to the model.
-Out of 4 cast members provided,the model was able to predict 3 members accurately.
-Such stored videos gives a very big fps loss but if runned on high end pc it will run smoothly.
