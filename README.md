@@ -5,7 +5,9 @@ Cast Recogniser can be an awesome program if you keep wondering "wait I have see
 
 # Screenshots
 ![1](https://user-images.githubusercontent.com/53887636/198068798-6197407b-e92f-45ab-8065-9f211a1627cd.png)
+
 ![2](https://user-images.githubusercontent.com/53887636/198068962-b1bd6c5d-74c0-4ae0-b50d-52c6aa527820.png)
+
 ![3](https://user-images.githubusercontent.com/53887636/198068980-e7c3efbb-26f4-4fc3-83de-d016d45c9bed.png)
 
 # Some shortcomings related to the program
